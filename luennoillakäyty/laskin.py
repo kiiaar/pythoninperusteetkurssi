@@ -5,3 +5,4 @@ print("yhteenlasku:", a + b)
 print("vähennyslasku:", a - b)
 print("kertolasku:", a * b)
 print("desimaalijakolasku:", a / b)
+

@@ -5,3 +5,4 @@ if user == "Sami":
     print("mee nyt menee")
 else:
     print("Hello, nice to meet you, " + user + "!")
+

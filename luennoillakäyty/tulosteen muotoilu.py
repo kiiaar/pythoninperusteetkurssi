@@ -10,3 +10,4 @@ print("oh, so you were born in", 2025 - ika)
 
 #muotoiltu tuloste
 print(f"oh, so you were born in {2025 - ika}.")
+
