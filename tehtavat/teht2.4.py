@@ -7,7 +7,7 @@ summa = A + B + C
 tulo = A * B * C
 keskiarvo = (A + B + C) / 3
 
-print(f"lukujen summa on: {summa:.2f}")
-print(f"lukujen tulo on: {tulo:.2f}")
+print(f"lukujen summa on: ",summa)
+print(f"lukujen tulo on: " ,tulo)
 print(f"keskiarvo on: {keskiarvo:.2f}")
 
