@@ -1,5 +1,5 @@
 import math
-säde= int(input("Hei anna ympyrän säde: "))
+säde= float(input("Hei anna ympyrän säde: "))
 
 #muuttuja jossa lasku suoritetaan
 A = math.pi * säde
