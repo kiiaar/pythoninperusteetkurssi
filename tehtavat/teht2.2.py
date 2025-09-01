@@ -1,10 +1,8 @@
 import math
-säde= float(input("Hei anna ympyrän säde: "))
+sade= float(input("Hei anna ympyrän säde: "))
 
 #muuttuja jossa lasku suoritetaan
-A = math.pi * säde
-
-print("Ympyrän pinta-ala on: ", A)
+A = math.pi * sade
 
 #muotoiltu kahteen desimaaliin
 print(f"Ympyrän pinta-ala on: {A:.2f}")
