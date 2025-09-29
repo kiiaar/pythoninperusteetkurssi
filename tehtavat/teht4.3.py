@@ -11,4 +11,3 @@ while luku != "":
     if luku == "":
         print(f"{pienin}, {isoin}")
         break
-
